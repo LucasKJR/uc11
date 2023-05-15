@@ -1,0 +1,30 @@
+package teste.senai;
+
+
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TesteSiteSenai {
+
+ 
+	private WebDriver driver;
+	
+	
+	
+	@Before
+	public void ConfigurarTeste ()
+	{
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\ChromeDriver\\chromedriver");
+		driver = new ChromeDriver();
+	}	
+	@Test
+	public void TesteNavegabilidade ()
+	{}	
+	
+	
+	
+	
+}
