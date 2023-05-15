@@ -666,3 +666,38 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2023-05-15 10:42:36,317 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-05-15 10:42:36,318 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-05-15 10:42:36,319 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:51:24,713 [Worker-30: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-15 12:52:38,669 [Worker-31: Creating project "teste_gameMania"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: teste_gameMania:teste_gameMania:0.0.1-SNAPSHOT @ C:\Users\Lucas\Desktop\uc11\encontroRemoto01\teste_gameMania\pom.xml.
+2023-05-15 12:52:38,924 [Worker-31: Creating project "teste_gameMania"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /teste_gameMania/src/main/java
+2023-05-15 12:52:38,925 [Worker-31: Creating project "teste_gameMania"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /teste_gameMania/src/main/resources
+2023-05-15 12:52:38,926 [Worker-31: Creating project "teste_gameMania"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /teste_gameMania/src/test/java
+2023-05-15 12:52:38,926 [Worker-31: Creating project "teste_gameMania"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /teste_gameMania/src/test/resources
+2023-05-15 12:52:39,317 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:52:39,322 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:52:39,327 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:52:39,328 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:54:37,903 [Worker-5: Building Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: teste_gameMania:teste_gameMania:0.0.1-SNAPSHOT @ C:\Users\Lucas\Desktop\uc11\encontroRemoto01\teste_gameMania\pom.xml.
+2023-05-15 12:54:38,050 [Worker-5: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:54:38,051 [Worker-5: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:54:38,054 [Worker-5: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:54:38,056 [Worker-5: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:54:46,187 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:54:46,189 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:54:46,190 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:54:46,191 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:55:01,121 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:55:01,122 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 12:55:01,124 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 12:55:01,125 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 13:02:16,811 [Worker-30: Launching TesteGameMania] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 13:02:16,813 [Worker-30: Launching TesteGameMania] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 13:02:16,815 [Worker-30: Launching TesteGameMania] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 13:02:16,816 [Worker-30: Launching TesteGameMania] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 13:03:57,843 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 13:03:57,844 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 13:03:57,845 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 13:03:57,846 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 13:08:32,051 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 13:08:32,052 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-15 13:08:32,053 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-15 13:08:32,054 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
