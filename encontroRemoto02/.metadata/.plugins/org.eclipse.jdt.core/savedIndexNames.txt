@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\Lucas\Desktop\Senai\uc11\encontroRemoto02\.metadata\.plugins\org.eclipse.jdt.core
+764522704.index
+1865797976.index
+2586465789.index
+735705145.index
+1389835534.index
